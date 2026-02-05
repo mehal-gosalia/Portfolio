@@ -3,11 +3,12 @@ import { StarBackground } from "../components/StarBackground";
 import { Navbar } from "../components/Navbar";
 import { HeroSection } from "../components/HeroSection";
 import { AboutSection } from "../components/AboutSection";
-import { SkillsSection } from "../components/Skillssection";
+
 import { ProjectsSection } from "../components/ProjectsSection";
 import { ContactSection } from "../components/ContactSection";
 import { Footer } from "../components/Footer";
 import { ExperienceSection } from "../components/ExperienceSection";
+import { SkillsSection } from "../components/SkillsSection";
 
  
 export const Home = () => {
