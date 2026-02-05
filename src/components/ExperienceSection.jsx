@@ -11,7 +11,7 @@ const experiences = [
         engagement shifts.
       </>
     ),
-    logo: "/src/logos/SFA.png",
+    logo: "/images/SFA.png",
   },
   {
     role: "SDE Intern",
@@ -26,7 +26,7 @@ const experiences = [
         reliability.
       </>
     ),
-    logo: "/src/logos/PF.png",
+    logo: "/images/PF.png",
   },
   {
     role: "Teaching Assistant",
@@ -39,7 +39,7 @@ const experiences = [
         <span className="font-semibold">grading</span>, and student mentoring.
       </>
     ),
-    logo: "/src/logos/iitcc.png",
+    logo: "/images/iitcc.png",
   },
   {
     role: "HR Student Assistant",
@@ -52,7 +52,7 @@ const experiences = [
         effort and improve reporting accuracy.
       </>
     ),
-    logo: "/src/logos/iit.png",
+    logo: "/images/iit.png",
   },
   {
     role: "Data Analyst Intern",
@@ -65,7 +65,7 @@ const experiences = [
         KPI insights from multi-source data.
       </>
     ),
-    logo: "/src/logos/MP.png",
+    logo: "/images/MP.png",
   },
 ];
 

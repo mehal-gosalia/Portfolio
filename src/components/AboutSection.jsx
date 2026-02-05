@@ -16,7 +16,7 @@ export const AboutSection = () => {
                         <div className="absolute -inset-4 rounded-full bg-gradient-to-r from-primary/40 via-purple-500/30 to-primary/40 blur-2xl animate-pulse" />
                         <div className="relative w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-primary/40 shadow-xl animate-float">
                             <img
-                            src="/public/mehal.png"
+                            src="/images/mehal.png"
                             alt="Mehal Gosalia"
                             className="w-full h-full object-cover hover:scale-105 transition-transform duration-500"
                         />
